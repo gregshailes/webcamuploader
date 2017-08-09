@@ -1,0 +1,13 @@
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\TestHarness.exe.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\TestHarness.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\TestHarness.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\AForge.Video.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\bin\Release\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.testForm.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.Properties.Resources.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\TestHarness\obj\Release\TestHarness.pdb

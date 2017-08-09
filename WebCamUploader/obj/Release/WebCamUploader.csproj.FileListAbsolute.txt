@@ -1,0 +1,8 @@
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Release\WebCamUploader.dll.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Release\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Release\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Release\AForge.Video.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\obj\Release\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\obj\Release\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\obj\Release\WebCamUploader.csprojResolveAssemblyReference.cache

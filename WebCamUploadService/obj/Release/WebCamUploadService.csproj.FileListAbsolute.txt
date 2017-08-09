@@ -1,0 +1,13 @@
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\WebCamUploadService.exe.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\WebCamUploadService.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\WebCamUploadService.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\AForge.Video.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Release\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.ProjectInstaller.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.WebCamUploadService.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\obj\Release\WebCamUploadService.pdb

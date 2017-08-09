@@ -1,0 +1,11 @@
+\\olympus\occam\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploader\bin\Debug\WebCamUploader.dll
+\\olympus\occam\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploader\bin\Debug\WebCamUploader.pdb
+\\olympus\occam\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploader\obj\Debug\WebCamUploader.dll
+\\olympus\occam\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploader\obj\Debug\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Debug\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Debug\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\obj\Debug\WebCamUploader.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\obj\Debug\WebCamUploader.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Debug\AForge.Video.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploader\bin\Debug\WebCamUploader.dll.config

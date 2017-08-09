@@ -1,0 +1,105 @@
+﻿Installing assembly 'O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Service WebCamUploadService has been successfully installed.
+Creating EventLog source WebCamUploadService in log Application...
+Committing assembly 'O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Uninstalling assembly 'O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = O:\Users\G_Shailes\Visual Studio 2015\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Removing EventLog source WebCamUploadService.
+Service WebCamUploadService is being removed from the system...
+Service WebCamUploadService was successfully removed from the system.
+Installing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Creating EventLog source WebCamUploadService in log Application...
+Rolling back assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Restoring event log to previous state for source WebCamUploadService.
+Installing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Creating EventLog source WebCamUploadService in log Application...
+Rolling back assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Restoring event log to previous state for source WebCamUploadService.
+Installing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Creating EventLog source WebCamUploadService in log Application...
+Rolling back assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Restoring event log to previous state for source WebCamUploadService.
+Installing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Service WebCamUploadService has been successfully installed.
+Creating EventLog source WebCamUploadService in log Application...
+Committing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Uninstalling assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\Debug\WebCamUploadService.exe
+Removing EventLog source WebCamUploadService.
+Warning: The source WebCamUploadService is not registered on the local machine.
+Service WebCamUploadService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe
+Installing service WebCamUploadService...
+Service WebCamUploadService has been successfully installed.
+Creating EventLog source WebCamUploadService in log Application...
+Committing assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe
+Uninstalling assembly 'c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.InstallLog
+   assemblypath = c:\Users\Greg\Documents\Visual Studio 2013\Projects\WebCamUploader\WebCamUploadService\bin\debug\WebCamUploadService.exe
+Removing EventLog source WebCamUploadService.
+Service WebCamUploadService is being removed from the system...
+Service WebCamUploadService was successfully removed from the system.

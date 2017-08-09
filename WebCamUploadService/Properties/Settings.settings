@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebCamUploadService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PicsToKeep" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="StartHour" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="EndHour" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="PostToUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://shailes.herokuapp.com/boriscam/upload</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
